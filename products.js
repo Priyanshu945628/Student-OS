@@ -11,7 +11,7 @@ window.productsData = [
       "Focus-Engineered UI"
     ],
     "youtubeLink": "https://www.youtube.com/@LearnByCod",
-    "downloadLink": "https://github.com/Priyanshu945628/Student-OS/archive/refs/tags/v1.0.zip"
+    "downloadLink": "https://github.com/Priyanshu945628/Student-OS/releases/download/v1.1/Student_OS Setup 1.1.0.exe"
   },
   {
     "id": "focustimer",
@@ -25,6 +25,6 @@ window.productsData = [
       "Predictive Intelligence Radar"
     ],
     "youtubeLink": "https://www.youtube.com/@LearnByCod",
-    "downloadLink": "https://github.com/Priyanshu945628/Student-OS/releases/download/v1.0.1/FocusTimer_Pro_Setup.exe"
+    "downloadLink": "https://github.com/Priyanshu945628/Student-OS/releases/download/v1.1/FocusTimer_Pro_Setup.exe"
   }
 ];
