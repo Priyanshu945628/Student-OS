@@ -12,7 +12,7 @@ window.productsData = [
       "This Might be not work on some devices because it need some type of environment and some of compuers has not present it"
     ],
     "youtubeLink": "https://www.youtube.com/@LearnByCod",
-    "downloadLink": "https://github.com/Priyanshu945628/Student-OS/releases/download/v1.1/Student_OS Setup 1.1.0.exe"
+    "downloadLink": "https://github.com/Priyanshu945628/Student-OS/releases/download/v1.0/Student_OS.Setup.1.1.0.exe"
   },
   {
     "id": "focustimer",
