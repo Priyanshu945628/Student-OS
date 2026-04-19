@@ -11,7 +11,7 @@ window.productsData = [
       "Focus-Engineered UI"
     ],
     "youtubeLink": "https://www.youtube.com/@LearnByCod",
-    "downloadLink": "https://github.com/Priyanshu945628/Student-OS/releases/download/v1.0.0/Student_OS.Setup.1.1.0.exe"
+    "downloadLink": "https://github.com/Priyanshu945628/Student-OS/archive/refs/tags/v1.0.zip"
   },
   {
     "id": "focustimer",
