@@ -3,7 +3,7 @@ window.productsData = [
     "id": "student-os",
     "name": "Student OS",
     "description": "The ultimate educational interface. zero distractions, maximum productivity.",
-    "image": "Images/student_os.png",
+    "image": "student_os.png",
     "features": [
       "Zero distractions, total focus",
       "Rapid tool & notes access",
@@ -17,7 +17,7 @@ window.productsData = [
     "id": "focustimer",
     "name": "FocusTimer Pro",
     "description": "AI-powered TO-DO list with daily work summarization and ML models.",
-    "image": "Images/banner.png",
+    "image": "banner.png",
     "features": [
       "FocusGPT AI Integration",
       "Daily Work Summarization",
