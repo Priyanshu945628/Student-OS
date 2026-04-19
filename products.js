@@ -26,6 +26,6 @@ window.productsData = [
       "Predictive Intelligence Radar"
     ],
     "youtubeLink": "https://www.youtube.com/@LearnByCod",
-    "downloadLink": "https://github.com/Priyanshu945628/Student-OS/releases/download/v1.1/FocusTimer_Pro_Setup.exe"
+    "downloadLink": "https://github.com/Priyanshu945628/Student-OS/releases/download/v1.1/FocusTimer_Official_Installer.exe"
   }
 ];
