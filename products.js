@@ -23,7 +23,8 @@ window.productsData = [
       "FocusGPT AI Integration",
       "Daily Work Summarization",
       "ML Burnout Risk Detector",
-      "Predictive Intelligence Radar"
+      "Predictive Intelligence Radar",
+      "Sorry this is not avalible now"
     ],
     "youtubeLink": "https://www.youtube.com/@LearnByCod",
     "downloadLink": "https://github.com/Priyanshu945628/Student-OS/releases/download/v1.1/FocusTimer_Official_Installer.exe"
